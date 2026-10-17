@@ -1,0 +1,15 @@
+# Byte-compiled / env
+__pycache__/
+*.pyc
+instance/
+.env
+.venv/
+venv/
+.pytest_cache/
+
+# Editor
+.vscode/
+.idea/
+
+# SQLite
+*.db

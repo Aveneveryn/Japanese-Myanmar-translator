@@ -1,0 +1,11 @@
+Flask
+SQLAlchemy
+python-dotenv
+requests
+fugashi
+unidic-lite
+jamdict
+pytesseract
+opencv-python
+pytest
+flake8
